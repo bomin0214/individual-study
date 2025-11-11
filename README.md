@@ -2,10 +2,10 @@
 
 | 구분 | 책 / 학습 자료명 | 진행 상태 |
 |------|------------------|------------|
-| 🧠 네트워크 | 그림으로 배우는 네트워크 프로토콜 | - [ ] |
-| 💻 백엔드 (Spring Boot / Java) | 스프링 부트 3 백엔드 개발자 되기 - 자바편 | - [x] |
-| 💻 백엔드 (Spring Boot / Java) | Flask와 FastAPI를 사용한 파이썬 웹 개발 | - [ ] |
-| 💻 백엔드 (Spring Boot / Java) | Python + Django, Spring Boot 함께 비교하며 익히는 웹개발 입문서 | - [ ] |
-| 🐳 DevOps & IaC | 한 권으로 배우는 도커 & 쿠버네티스 | - [ ] |
-| 🐳 DevOps & IaC | 테라폼으로 시작하는 IaC (개정판) | - [ ] |
-| 🧩 알고리즘 | 백준 단계별 문제 | - [ ] |
+| 🧠 네트워크 | 그림으로 배우는 네트워크 프로토콜 | 진행중 |
+| 💻 백엔드 (Spring Boot / Java) | 스프링 부트 3 백엔드 개발자 되기 - 자바편 | 완료 |
+| 💻 백엔드 (Spring Boot / Java) | Flask와 FastAPI를 사용한 파이썬 웹 개발 |  |
+| 💻 백엔드 (Spring Boot / Java) | Python + Django, Spring Boot 함께 비교하며 익히는 웹개발 입문서 | |
+| 🐳 DevOps & IaC | 한 권으로 배우는 도커 & 쿠버네티스 | |
+| 🐳 DevOps & IaC | 테라폼으로 시작하는 IaC (개정판) | |
+| 🧩 알고리즘 | 백준 단계별 문제 |  |
